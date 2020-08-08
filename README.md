@@ -1,6 +1,11 @@
 ### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋
 
 ## I'm a coder, Developer, and Leader!
+
+> Undergraduate student @ VTTI
+> Web Developer
+> Security enthusiast, Deep learning enthusiast
+
 - 🔭 **Currently working on:** Python, javaScript, OpenCV and Automation.
 - 🐍 __Being better at:__ Python, C
 - 🤔 __Exploring:__ JavaScript
