@@ -3,9 +3,9 @@
 ## I'm a coder, Developer, and Leader!
 - 🔭 **Currently working on:** Python, javaScript, OpenCV and Automation.
 - 🐍 __Being better at:__ Python, C
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travell and music.
+- 🤔 __Exploring:__ JavaScript
+- 🥅 __Goal:__ being a python Developer 💙 
+- ⚡ __Fun fact:__ I love to travell and music. 😎 
 
 ### Connect with me:
 
