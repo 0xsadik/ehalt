@@ -1,11 +1,11 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Assalamu alaikum, I am Torikus Sadik Raihan [ehalt] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+## I'm a coder, Developer, and Leader!
+- 🔭 I’m currently working on a [Android app][website]!
+- 🌱 I’m currently learning something new 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to travell and music.
 
 ### Connect with me:
 
