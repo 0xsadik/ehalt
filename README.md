@@ -1,8 +1,8 @@
 ### Assalamu alaikum, I am Torikus Sadik Raihan [ehalt] 👋
 
 ## I'm a coder, Developer, and Leader!
-- 🔭 * Currently: * Working with [Python][website]!
-- 🌱 * Being better at: * Python :P
+- 🔭 *Currently:* Working with [Python][website]!
+- 🌱 *Being better at:* Python :P
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travell and music.
