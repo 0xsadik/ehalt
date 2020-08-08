@@ -15,6 +15,9 @@
 - 🥅 __Goal:__ being a python Developer 💙 
 - ⚡ __Fun fact:__ I love to travell and music. 😎 
 
+<br/>
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -25,6 +28,13 @@
 
 
 <br/>
+<br/>
+<br/>
+
+<br/>
+
+<br/>
+
 
 ### Languages and Tools:
 
