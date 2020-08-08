@@ -2,7 +2,7 @@
 
 ## I'm a coder, Developer, and Leader!
 - 🔭 ## Currently: Working with [Python][website]!
-- 🌱 I’## Being better at: Python :P
+- 🌱 ## Being better at: Python :P
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travell and music.
