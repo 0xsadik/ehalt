@@ -20,8 +20,7 @@
 - ⚡ __Fun fact:__ I love to travell and music. 😎 
 
 <br/>
----
-<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
+
 <br/>
 <br/>
 
@@ -37,6 +36,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/torikus_/)
 
 <br/>
+
+<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
+
 <br/>
 
 ### Latest Blog posts
