@@ -23,6 +23,7 @@
 ---
 <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
 <br/>
+<br/>
 
 
 ### Connect with me:
