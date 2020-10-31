@@ -12,6 +12,7 @@
 > Undergraduate student @ VTTI <br/>
 > Web Developer <br/>
 > Security enthusiast, Deep learning enthusiast
+<br/>
 
 - 🔭 **Currently working on:** Python, javaScript, OpenCV and Automation.
 - 🐍 __Being better at:__ Python, C
@@ -34,7 +35,7 @@
 
 <br/>
 
-### Latest Blog posts
+### Latest Blog posts:
 
 
 ### Languages and Tools:
@@ -90,7 +91,7 @@
 
 <br/>
 
-<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
+<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=merko&count_private=true hide_border=ture" />
 
 <br/>
 
