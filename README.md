@@ -16,6 +16,12 @@
 - ⚡ __Fun fact:__ I love to travell and music. 😎 
 
 <br/>
+<br/>
+<br/>
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=ture" />
 
 ### Connect with me:
 <br/>
@@ -29,6 +35,8 @@
 
 <br/>
 <br/>
+
+### Latest Blog posts
 
 
 ### Languages and Tools:
