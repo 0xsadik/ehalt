@@ -91,6 +91,9 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
+
 <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=merko&count_private=true hide_border=ture" />
 
 <br/>
