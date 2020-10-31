@@ -4,6 +4,11 @@
 
 
 <br/>
+<br/>
+---
+
+<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
+
 
 > Undergraduate student @ VTTI <br/>
 > Web Developer <br/>
@@ -17,11 +22,7 @@
 
 <br/>
 <br/>
-<br/>
 
----
-
-<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
 
 ### Connect with me:
 <br/>
