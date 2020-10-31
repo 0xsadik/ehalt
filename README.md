@@ -5,9 +5,8 @@
 
 <br/>
 <br/>
----
 
-<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
+
 
 
 > Undergraduate student @ VTTI <br/>
@@ -21,6 +20,8 @@
 - ⚡ __Fun fact:__ I love to travell and music. 😎 
 
 <br/>
+---
+<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&hide_border=ture" />
 <br/>
 
 
