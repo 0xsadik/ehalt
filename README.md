@@ -4,9 +4,17 @@
 
 <img src="meh2.png" width="300px">
 
-### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋
+<h3 align="center">
+Assalamu alaikum, I am Torikus! 👋
+</h3>
 
-## I'm a coder, Developer, and Leader!
+<samp>
+    I am Torikus Sadik Raihan. I am currently a student. who is interested in programming. I love silance, book, gadgets, a cup of coffee and also i love to learn something new. btw, welcome to my profile. :D
+</samp>
+</p>
+<!-- ### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋
+
+## I'm a coder, Developer, and Leader! -->
 
 
 <br/>
