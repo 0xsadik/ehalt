@@ -12,6 +12,8 @@ Assalamu alaikum, I am Torikus! 👋
     <p align="center">I am Torikus Sadik. I am currently a student. who is interested in programming. I love silance, book, gadgets, a cup of coffee and also i love to learn something new. btw, welcome to my profile. :D</p>
 </samp>
 </p>
+<br/>
+---
 <!-- ### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋
 
 ## I'm a coder, Developer, and Leader! -->
