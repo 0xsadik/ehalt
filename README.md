@@ -9,7 +9,7 @@ Assalamu alaikum, I am Torikus! 👋
 </h3>
 
 <samp>
-    I am Torikus Sadik. I am currently a student. who is interested in programming. I love silance, book, gadgets, a cup of coffee and also i love to learn something new. btw, welcome to my profile. :D
+    <p align="center">I am Torikus Sadik. I am currently a student. who is interested in programming. I love silance, book, gadgets, a cup of coffee and also i love to learn something new. btw, welcome to my profile. :D</p>
 </samp>
 </p>
 <!-- ### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋
