@@ -13,11 +13,12 @@ Assalamu alaikum, I am Torikus! 👋
 </samp>
 </p>
 <br/>
-___
+
 <!-- ### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋 -->
 
 <!-- ## I'm a coder, Developer, and Leader! -->
 
+---
 
 <br/>
 <br/>
