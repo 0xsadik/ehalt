@@ -5,7 +5,7 @@
 <img src="meh2.png" width="300px">
 
 <h3 align="center">
-Assalamu alaikum, I am Torikus! 👋
+Assalamu alaikum ! 👋
 </h3>
 
 <samp>
@@ -30,11 +30,11 @@ Assalamu alaikum, I am Torikus! 👋
 > Security enthusiast, Deep learning enthusiast 🤫
 <br/>
 
-- 🔭 **Currently working on:** Python, javaScript, OpenCV and Automation.
-- 🐍 __Being better at:__ Python, C
+- 🔭 **Currently working on:** JavaScript, Python, OpenCV and Automation.
+- 🐍 __Being better at:__ Python.
 - 🤔 __Exploring:__ JavaScript
 - 🥅 __Goal:__ being a python Developer 💙 
-- ⚡ __Fun fact:__ I love to travell and music. 😎 
+- ⚡ __Fun fact:__ I love to travel and music. 😎 
 
 <br/>
 
