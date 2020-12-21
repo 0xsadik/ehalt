@@ -1,8 +1,8 @@
 
 
 <p align="center">
-
-<img src="tori.png" width="300px">
+<!-- image was 300px -->
+<img src="74.png" width="200px">
 
 <h3 align="center">
 Assalamu alaikum ! 👋
