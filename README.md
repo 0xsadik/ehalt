@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="meh2.png" width="300px">
+<img src="tori.png" width="300px">
 
 <h3 align="center">
 Assalamu alaikum ! 👋
