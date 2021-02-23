@@ -2,7 +2,7 @@
 
 <p align="center">
 <!-- image was 300px -->
-<img src="74.png" width="200px">
+<img src="torikus.jpg" width="200px">
 
 <h3 align="center">
 Assalamu alaikum ! 👋
@@ -25,7 +25,7 @@ Assalamu alaikum ! 👋
 
 
 
-> Undergraduate student @ VTTI 👨‍🎓 <br/>
+> Undergraduate student @ V77! 👨‍🎓 <br/>
 > Web Developer 🤗 <br/>
 > Security enthusiast, Deep learning enthusiast 🤫
 <br/>
