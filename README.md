@@ -2,7 +2,7 @@
 
 <p align="center">
 <!-- image was 300px -->
-<img src="torikus.jpg" width="200px">
+<img style="border-radius: 10px" src="torikus.jpg" width="200px">
 
 <h3 align="center">
 Assalamu alaikum ! 👋
