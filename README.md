@@ -43,11 +43,11 @@ Assalamu alaikum ! 👋
 <br/>
 
 
-[<img align="left" alt="" width="22px" src="#" />][website]
-[<img align="left" alt="#" />](https://www.youtube.com/channel/UCBBI916NQzfy0t1JKYhGojA?view_as=subscriber)
-[<img align="left" alt="#" />](https://twitter.com/TorikusS)
-[<img align="left" alt="#" />][linkedin]
-[<img align="left" alt="#" />](https://www.instagram.com/torikus_/)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCBBI916NQzfy0t1JKYhGojA?view_as=subscriber)
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TorikusS)
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/torikus_/)
 
 <br/>
 
@@ -99,7 +99,7 @@ Assalamu alaikum ! 👋
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
@@ -111,3 +111,5 @@ Assalamu alaikum ! 👋
 <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" />
 
 <br/>
+
+
