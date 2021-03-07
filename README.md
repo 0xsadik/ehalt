@@ -114,7 +114,7 @@ Assalamu alaikum ! 👋
 
 
 
-[website]: https://codeSTACKr.com
+[website]: #
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
