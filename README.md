@@ -31,7 +31,7 @@ Assalamu alaikum ! 👋
 <br/>
 
 - 🔭 **Currently working on:** E-commerce project.
-- 📖 __Currently learning:__ React js.
+- 📖 __Currently learning:__ Mongodb.
 - 🤔 __Exploring:__ JavaScript
 - 🥅 __Goal:__ being a Js Developer 💙 
 - ❓ __Ask me about:__ HTML, CSS, JavaScript, python and React js 😊 
