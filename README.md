@@ -26,7 +26,7 @@ Assalamu alaikum ! 👋
 
 
 > Undergraduate student @ V77! 👨‍🎓 <br/>
-> Web Developer 🤗 <br/>
+> MERN Stack Developer 🤗 <br/>
 > Security enthusiast, Deep learning enthusiast 🤫
 <br/>
 
