@@ -53,16 +53,20 @@ Assalamu alaikum ! 👋
 
 ### Connect with me:
 
-[<img align="left" alt="#" width="22px" src="https://image.flaticon.com/icons/png/512/20/20673.png" />] [facebook]
+[<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />][facebook]
+  
+[<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][Instagram]
 
+[<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 
-<!-- [<img align="left" alt="#", width= "25px", src = "" />] -->
-
-
+<br/>
+<br/>
 <br/>
 
 <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" />
 
 <br/>
 
-[facebook]:(https://www.facebook.com/pluviophile404)
+[facebook]:https://www.facebook.com/pluviophile404
+[Instagram]: https://www.instagram.com/torikus_/
+[twitter]: https://twitter.com/TorikusS
