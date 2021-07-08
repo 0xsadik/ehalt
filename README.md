@@ -53,7 +53,7 @@ Assalamu alaikum ! 👋
 
 ### Connect with me:
 
-[<img align="left" alt="#", width= "25px", src = "https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />](https://www.facebook.com/pluviophile404)
+[<img align="left" alt="#", width= "25px", src = "https://image.flaticon.com/icons/png/512/20/20673.png" />](https://www.facebook.com/pluviophile404)
 
 
 
