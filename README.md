@@ -13,13 +13,8 @@ Assalamu alaikum ! 👋
 </samp>
 </p>
 
-<!-- ### Assalamu alaikum 😊, I am Torikus Sadik Raihan ☺️  [ehalt] 👋 -->
-
-<!-- ## I'm a coder, Developer, and Leader! -->
-
 ---
 
-<br/>
 <br/>
 
 
@@ -39,54 +34,23 @@ Assalamu alaikum ! 👋
 
 <br/>
 
-
-### Connect with me:
-<br/>
-
-
-[<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCBBI916NQzfy0t1JKYhGojA?view_as=subscriber)
-[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TorikusS)
-[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/torikus_/)
-
-<br/>
-
-<!-- ### Latest Blog posts: -->
-
 ### Languages and Tools:🥱
-
-### Skills on Languages and Tools:
-<!-- - Programming Languages : Python, JavaScript;
-- Markup and Style : HTML, CSS ;
-- Framework and Library : Bootstrap , Materialize.css, React.js;
-- Code Editor : Vs Code , Sublime, Notepad++;
-- Other Tools : NPM , Yarn , Git;  -->
 
 ```json
 {
     "languages":["JavaScript","C","Python","SASS"],
     "backend":["NodeJS"],
     "frontend":["React"],
-    "databases":["MongoDB],
-    "tools":["NPM","YARN","GIT"]
+    "databases":["MongoDB]
 }
+
 ```
 
-<br/>
-<br/>
-<br/>
+
+
 <br/>
 
 <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" />
 
 <br/>
 
-
-
-[website]: #
-[linkedin]: #
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
