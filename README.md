@@ -57,11 +57,21 @@ Assalamu alaikum ! 👋
 ### Languages and Tools:🥱
 
 ### Skills on Languages and Tools:
-- Programming Languages : Python, JavaScript;
+<!-- - Programming Languages : Python, JavaScript;
 - Markup and Style : HTML, CSS ;
 - Framework and Library : Bootstrap , Materialize.css, React.js;
 - Code Editor : Vs Code , Sublime, Notepad++;
-- Other Tools : NPM , Yarn , Git; 
+- Other Tools : NPM , Yarn , Git;  -->
+
+```json
+{
+    "languages":["JavaScript","C","Python","SASS"],
+    "backend":["NodeJS"],
+    "frontend":["React"],
+    "databases":["MongoDB],
+    "tools":["NPM","YARN","GIT"]
+}
+```
 
 <br/>
 <br/>
