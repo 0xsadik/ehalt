@@ -38,10 +38,14 @@ Assalamu alaikum ! 👋
 
 ```json
 {
-    "languages":["JavaScript","C","Python","SASS"],
-    "backend":["NodeJS"],
-    "frontend":["React"],
-    "databases":["MongoDB]
+    "languages" : ["JavaScript","C","Python","SASS"],
+    "backend" : ["NodeJS"],
+    "frontend" : ["React"],
+    "database" : ["MongoDB"],
+    "others" : ["NPM","Yarn","Git"]
+},
+{
+    "tools": ["Adobe Photoshop","AdobeXD"]
 }
 
 ```
