@@ -53,8 +53,7 @@ Assalamu alaikum ! 👋
 
 ### Connect with me:
 
-[<img align="left" alt="#", width= "25px", src = "https://image.flaticon.com/icons/png/512/20/20673.png" />](https://www.facebook.com/pluviophile404)
-
+[<img align="left" alt="#" width="22px" src="https://image.flaticon.com/icons/png/512/20/20673.png" />] [facebook]
 
 
 <!-- [<img align="left" alt="#", width= "25px", src = "" />] -->
@@ -66,3 +65,4 @@ Assalamu alaikum ! 👋
 
 <br/>
 
+[facebook]: https://www.facebook.com/pluviophile404
