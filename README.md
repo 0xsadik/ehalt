@@ -25,7 +25,7 @@ Assalamu alaikum ! 👋
 > Security enthusiast, Deep learning enthusiast 🤫
 <br/>
 
-- 🔭 **Currently working on:** E-commerce project.
+- 🔭 **Currently working on:** *Nothing*.
 - 📖 __Currently learning:__ Mongodb.
 - 🤔 __Exploring:__ JavaScript
 - 🥅 __Goal:__ being a Js Developer 💙 
@@ -49,7 +49,15 @@ Assalamu alaikum ! 👋
 }
 
 ```
+<br/>
 
+### Connect with me:
+
+[<img align="left" alt="#", width= "25px", src = "https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />](https://www.facebook.com/pluviophile404)
+
+
+
+<!-- [<img align="left" alt="#", width= "25px", src = "" />] -->
 
 
 <br/>
