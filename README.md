@@ -41,7 +41,7 @@ Assalamu alaikum ! 👋
     "languages" : ["JavaScript","C","Python","SASS"],
     "backend" : ["NodeJS"],
     "frontend" : ["React"],
-    "database" : ["MongoDB"],
+    "database" : ["Express.js","MongoDB"],
     "others" : ["NPM","Yarn","Git"]
 },
 {
