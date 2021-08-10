@@ -53,11 +53,19 @@ Assalamu alaikum ! 👋
 
 ### Connect with me:
 
-[<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />][facebook]
+<!-- [<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />][facebook]
   
 [<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][Instagram]
 
-[<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+[<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter] -->
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+[![image](https://img.shields.io/badge/Tumblr-001935?style=for-the-badge&logo=Tumblr&logoColor=white)][tumblr]
+
+<!-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com) -->
 
 <br/>
 <br/>
@@ -70,3 +78,5 @@ Assalamu alaikum ! 👋
 [facebook]:https://www.facebook.com/pluviophile404
 [Instagram]: https://www.instagram.com/torikus_/
 [twitter]: https://twitter.com/TorikusS
+[linkedin]: https://www.linkedin.com/in/torikus-sadik-8814861b3/
+[tumblr]: https://www.tumblr.com/blog/tori404
