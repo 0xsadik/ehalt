@@ -32,7 +32,7 @@ Assalamu alaikum ! 👋
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 **Currently working on:** *Nothing*.
 - 📖 __Currently learning:__ Mongodb.
