@@ -75,7 +75,14 @@ Assalamu alaikum ! 👋
 <br/>
 <br/>
 
-<img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" />
+<a href="https://github.com/ehalt">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehalt&theme=tokyonight" />
+  </a>
+
+<br/>
+<!-- <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" /> -->
+
+![orikus's Github Stats](https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&include_all_commits=true)
 
 <br/>
 
