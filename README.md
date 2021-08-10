@@ -29,6 +29,9 @@ Assalamu alaikum ! 👋
 > Security enthusiast, Deep learning enthusiast 🤫
 <br/>
 
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🔭 **Currently working on:** *Nothing*.
 - 📖 __Currently learning:__ Mongodb.
 - 🤔 __Exploring:__ JavaScript
@@ -69,15 +72,15 @@ Assalamu alaikum ! 👋
 [![image](https://img.shields.io/badge/Tumblr-001935?style=for-the-badge&logo=Tumblr&logoColor=white)][tumblr]
 [![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 
-<!-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com) -->
 
 <br/>
 <br/>
 <br/>
 
-<a href="https://github.com/ehalt">
+<!-- <a href="https://github.com/ehalt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehalt&theme=tokyonight" />
-  </a>
+  </a> -->
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehalt&theme=react&layout=compact" />
 
 <br/>
 <!-- <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" /> -->
