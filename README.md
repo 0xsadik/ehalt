@@ -10,8 +10,10 @@ Assalamu alaikum ! 👋
 
 <samp>
     <p align="center">I am Torikus Sadik. I am currently a student. who is interested in programming. I love silence, book, gadgets, a cup of coffee, and also I love to learn something new. btw, welcome to my profile. :D</p>
-    <a href="https://twitter.com/torikus__"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/torikus__?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://github.com/ehalt"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ehalt?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+    <p align="center">
+    <a href="https://twitter.com/torikus__"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/torikus__?color=2d90cc&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://github.com/ehalt"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ehalt?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
+    </p>
 </samp>
 </p>
 
