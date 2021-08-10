@@ -10,6 +10,8 @@ Assalamu alaikum ! 👋
 
 <samp>
     <p align="center">I am Torikus Sadik. I am currently a student. who is interested in programming. I love silence, book, gadgets, a cup of coffee, and also I love to learn something new. btw, welcome to my profile. :D</p>
+    <a href="https://twitter.com/torikus__"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/torikus__?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://github.com/ehlat"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ehlat?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </samp>
 </p>
 
@@ -62,8 +64,8 @@ Assalamu alaikum ! 👋
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![image](https://img.shields.io/badge/Tumblr-001935?style=for-the-badge&logo=Tumblr&logoColor=white)][tumblr]
+[![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 
 <!-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com) -->
 
@@ -74,6 +76,8 @@ Assalamu alaikum ! 👋
 <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&theme=radical&count_private=true hide_border=ture" />
 
 <br/>
+
+<!-- social links here -->
 
 [facebook]:https://www.facebook.com/pluviophile404
 [Instagram]: https://www.instagram.com/torikus_/
