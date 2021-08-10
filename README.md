@@ -30,7 +30,9 @@ Assalamu alaikum ! 👋
 <br/>
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 **Currently working on:** *Nothing*.
 - 📖 __Currently learning:__ Mongodb.
@@ -87,7 +89,18 @@ Assalamu alaikum ! 👋
 
 ![orikus's Github Stats](https://github-readme-stats.vercel.app/api?username=ehalt&show_icons=true&include_all_commits=true)
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ehalt&theme=react-dark&hide_border=true&area=true)
+
+
 <br/>
+
+<samp>
+    <p align="center"> 
+        Visitor count : <br>
+        <img src="https://profile-counter.glitch.me/ehalt/count.svg" />
+    </p>
+</samp>
+
 
 <!-- social links here -->
 
