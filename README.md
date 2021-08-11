@@ -106,6 +106,6 @@ Assalamu alaikum ! 👋
 
 [facebook]:https://www.facebook.com/pluviophile404
 [Instagram]: https://www.instagram.com/torikus_/
-[twitter]: https://twitter.com/TorikusS
+[twitter]: https://twitter.com/torikus__
 [linkedin]: https://www.linkedin.com/in/torikus-sadik-8814861b3/
 [tumblr]: https://www.tumblr.com/blog/tori404
